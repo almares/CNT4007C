@@ -1,2 +1,2 @@
-# CNT4007C-pa1
-Programming Assignment 1 detailing a basic client/server implementation via TCP protocol
+# CNT4007C
+CNT4007C: Computer Network Fundamentals - Course Programming Assignments
