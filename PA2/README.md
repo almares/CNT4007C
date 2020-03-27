@@ -1,0 +1,1 @@
+This programming assignment modeled the RDT 3.0 Protocol, simulating the reliable data transfer over a lossy channel with bit errors. This involved the creation of a sender, receiver, and network programs that communicated with one another with proper acknowledgment syntax to transfer a message from host to host via a stream of data packets.
